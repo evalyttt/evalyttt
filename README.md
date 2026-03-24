@@ -1,74 +1,69 @@
-# Hi, I'm Eva Liu
+# Hi, I'm Eva Liu 👋
 
-**Data Analyst** | MS Advanced Data Analytics @ UNT | 5+ Years in Data Analytics & Business Intelligence
+**Data Analyst | 6+ Years Turning Business Data Into Revenue Impact**
 
-I turn operational and business data into actionable insights. My work spans KPI reporting, user behavior analytics, A/B testing, dashboard development, and AI-powered product workflows. I've driven 30% user growth, reduced costs by 5%, and built dashboards used by cross-functional teams across 3 countries.
+I don't just build dashboards — I build the analytics that drive decisions. From KPI frameworks used by leadership teams to A/B testing pipelines that cut experiment cycles by 80%, my work sits at the intersection of data engineering, business intelligence, and strategy.
 
----
+**My track record:**
 
-### What I Do
+📈 **30% user growth** — Built analytics pipelines and dashboards at Zhihu (100M+ users) that drove year-over-year growth for the online learning division
 
-**Data Analytics & Business Intelligence**
-- End-to-end KPI reporting, cohort analysis, and customer segmentation
-- Interactive dashboards in Tableau and Power BI for cross-functional teams
-- A/B testing frameworks that accelerated experiment turnaround from 2 weeks to 3 days
+💰 **$320K+ annual savings** — Identified cost-saving opportunities through operational data analysis across two companies
 
-**Operations & Process Optimization**
-- Workflow analysis that identified $120K+ in annual cost-saving opportunities
-- Automated reporting pipelines that eliminated 8+ hours of manual work per week
-- Data pipeline redesigns that improved data freshness from T+2 to near-real-time
+⚡ **T+2 → Real-time** — Redesigned data pipelines that transformed reporting from 2-day lag to near-real-time freshness
 
-**AI & Automation**
-- RAG pipeline implementation for AI-powered customer support
-- Chatbot workflow optimization that improved first-contact resolution by 20%
-- LLM prompt engineering and API integration for product workflows
+🧪 **2 weeks → 3 days** — Built A/B testing frameworks that accelerated experiment turnaround by 80%
+
+🤖 **20% resolution improvement** — Implemented RAG-based automation for AI customer support
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-**Languages:** SQL, Python (pandas, NumPy, scikit-learn, matplotlib), R
-**BI & Visualization:** Tableau, Power BI, Excel (PivotTables, Power Query), Google Sheets
-**Analytics:** A/B Testing, Regression Analysis, Cohort Analysis, Customer Segmentation, Statistical Testing
-**AI & Automation:** RAG Pipelines, LLM Prompt Engineering, Chatbot Workflow Design, API Integration
-**Tools:** Git, Jupyter Notebooks, Google Analytics
-**Languages:** Mandarin (Native), English (Professional)
-
----
-
-### Experience
-
-| Company | Role | Location | Period |
-|---------|------|----------|--------|
-| **SourceWithAI** | Senior Data Analyst | Remote | Jan 2026 - Present |
-| **Zhihu** (China's Quora, 100M+ users) | Business Data Analytics Lead | Beijing, China | Jan 2022 - Nov 2024 |
-| **Solutions Now** | Data Analyst Intern | Denton, TX | Jan 2025 - Jun 2025 |
-| **Access Corporate Group** | Business Analyst | Sydney, Australia | Sep 2018 - Oct 2020 |
+```
+SQL · Python · Tableau · Power BI · Excel
+pandas · NumPy · scikit-learn · matplotlib
+A/B Testing · Cohort Analysis · Customer Segmentation · KPI Frameworks
+RAG Pipelines · LLM Prompt Engineering · Chatbot Workflows
+Git · GCP · Jupyter · Google Analytics
+```
 
 ---
 
-### Education
+### 📂 Featured Projects
 
-| Degree | School | Year |
-|--------|--------|------|
-| **M.S. Advanced Data Analytics** | University of North Texas | 2025 |
-| **M.I.T. Information Technology** | University of Technology Sydney | 2018 |
-
----
-
-### Featured Work
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [SourceWithAI Analytics](https://github.com/evalyttt/sourcewithai-analytics) | KPI dashboards, pipeline optimization, and sourcing operations analytics at an AI-powered B2B platform | Python, SQL, Tableau, scikit-learn |
+| Project | What It Does | Key Methods |
+|---------|-------------|-------------|
+| [**A/B Testing Framework**](https://github.com/evalyttt/ab-testing-analysis) | Automated hypothesis testing with confidence intervals and effect size estimation | Chi-square, Welch's t-test, Bootstrap CI, Bayesian |
+| [**Customer Segmentation**](https://github.com/evalyttt/customer-segmentation) | RFM analysis + K-Means clustering on 50K+ customers to drive retention strategy | K-Means, Silhouette Analysis, RFM Scoring |
+| [**KPI Dashboard Framework**](https://github.com/evalyttt/kpi-dashboard-framework) | Automated KPI monitoring with anomaly detection — reduced manual reporting by 60% | Trend Analysis, Anomaly Detection, Alerting |
+| [**E-Commerce Sales Analysis**](https://github.com/evalyttt/ecommerce-sales-analysis) | 100K+ transaction deep dive: revenue drivers, seasonal patterns, inventory optimization | EDA, Time Series, Revenue Attribution |
+| [**SourceWithAI Analytics**](https://github.com/evalyttt/sourcewithai-analytics) | KPI dashboards and pipeline optimization for an AI-powered B2B sourcing platform | SQL, Python, Tableau |
 
 ---
 
-### Connect
+### 💼 Experience
 
-- **LinkedIn:** [linkedin.com/in/eva-liu](https://linkedin.com/in/eva-liu)
-- **Email:** evalytt@gmail.com
+| Company | Role | Period |
+|---------|------|--------|
+| **SourceWithAI** — AI-powered B2B sourcing | Senior Data Analyst | 2026 - Present |
+| **Zhihu** — China's largest Q&A platform (100M+ users) | Business Data Analytics Lead | 2022 - 2024 |
+| **Solutions Now** — Environmental services | Data Analyst | 2025 |
+| **Access Corporate Group** — E-commerce retail (Sydney) | Business Analyst | 2018 - 2020 |
+
+### 🎓 Education
+
+**M.S. Advanced Data Analytics** — University of North Texas (2025)
+**M.I.T. Information Technology** — University of Technology Sydney (2018)
 
 ---
 
-*Currently seeking Data Analyst / Business Analyst / Analytics roles in the DFW area.*
+### 🌏 Fun Facts
+- Worked across 3 countries (China 🇨🇳 · Australia 🇦🇺 · USA 🇺🇸)
+- Bilingual: Mandarin (Native) · English (Professional)
+
+---
+
+📫 **evalytt@gmail.com** · [LinkedIn](https://linkedin.com/in/eva-liu)
+
+*Open to Data Analyst / Business Analyst / Analytics roles in the DFW area.*
