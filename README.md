@@ -60,7 +60,7 @@ I turn operational and business data into actionable insights. My work spans KPI
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Data Analytics Portfolio](https://github.com/evalyttt/data-analytics-portfolio) | End-to-end analytics projects: user behavior analysis, customer segmentation, A/B testing, dashboard development | Python, SQL, Tableau, scikit-learn |
+| [SourceWithAI Analytics](https://github.com/evalyttt/sourcewithai-analytics) | KPI dashboards, pipeline optimization, and sourcing operations analytics at an AI-powered B2B platform | Python, SQL, Tableau, scikit-learn |
 
 ---
 
