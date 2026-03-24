@@ -41,8 +41,6 @@ I build analytics pipelines, KPI frameworks, and dashboards that turn data into 
 | [Customer Segmentation](https://github.com/evalyttt/customer-segmentation) | RFM + K-Means clustering on 50K+ customers. **5 segments with actionable retention strategies.** | Python, scikit-learn, SQL |
 | [E-Commerce Sales Analysis](https://github.com/evalyttt/ecommerce-sales-analysis) | Revenue drivers, seasonal patterns, and inventory optimization from 100K+ transactions. | Python, pandas, SQL |
 
-See my [Portfolio Guide](https://github.com/evalyttt/portfolio-guide) for detailed project walkthroughs.
-
 ---
 
 ### Connect
