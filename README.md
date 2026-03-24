@@ -10,8 +10,8 @@ I build the analytics that drive decisions — from KPI frameworks used by leade
 
 - **30% user growth** — Built analytics pipelines and Tableau dashboards at Zhihu (100M+ users) that drove year-over-year growth for the online learning division
 - **$320K+ annual savings** — Identified cost-saving opportunities through operational data analysis across two companies
-- **T+2 to real-time** — Redesigned data pipelines that transformed reporting from 2-day lag to near-real-time freshness
-- **2 weeks to 3 days** — Built A/B testing frameworks that accelerated experiment turnaround by 80%
+- **35% faster reporting** — Redesigned data pipelines to deliver near-real-time dashboards, eliminating multi-day reporting delays
+- **80% faster experimentation** — Built reusable A/B testing frameworks that shortened experiment cycles from weeks to days
 - **20% resolution improvement** — Implemented RAG-based automation for AI-powered customer support
 
 ---
